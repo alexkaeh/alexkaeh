@@ -7,7 +7,7 @@ I'm a recent bootcamp graduate from Merit America's Java Development program. I'
 - 👯 I’m looking to collaborate on open source projects, especially using Javascript, React or Java
 - 🤔 I’m looking for help with professional networking and job hunting advice - hit me up!
 - 💬 Ask me about ebikes, urban planning, AI safety
-- 📫 How to reach me @PlausibleOrange on Twitter or alexkaehler1@gmail.com
+- 📫 How to reach me: @PlausibleOrange on Twitter or alexkaehler1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can tie my shoes faster than anyone you know 
 
