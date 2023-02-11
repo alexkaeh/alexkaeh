@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent bootcamp graduate from Merit America's Java Development program. I'm psyched to be taking the next steps to pursue my longtime love for software, and especially open source development.
+I'm a recent graduate from Merit America's Java Development bootcamp. I'm psyched to be taking the next steps to pursue my longtime love for software, and especially open source development.
 
 - 🔭 I’m currently working on too many things to count! Focus, Alex! Focus!
 - 🌱 I’m currently learning functional programming
